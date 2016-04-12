@@ -1,0 +1,28 @@
+name: Move On
+favicon: null
+layout_spectrum: 0.8497078297659755
+typography_spectrum: 0.11143064498901367
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.13056524517014623
+  lightness: 0.9228750721085817
+  saturation: 0.3246993569191545
+  rhythmicContrast: 0.4465627030003816
+purpose: []
